@@ -18,3 +18,6 @@ git clone https://github.com/EloiStree/OpenUPM_TickCollection.git
 **Warning:** Attention a jouer Text Mesh Pro de Unity3D.  
 
 
+Server:
+The one of the workshop: https://github.com/EloiStree/HelloRemoteUDPWS/tree/main/MonPremierServeurPythonUDP
+The one I use: https://github.com/EloiStree/2024_08_29_ScratchToWarcraft
