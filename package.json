@@ -1,8 +1,8 @@
 {
   "name": "be.elab.hellohordesudp",
-  "version": "2025.5.18",
+  "version": "1.0.0",
   "displayName": "Hello Hordes IO par UDP",
-  "description": "Permet d apprendre ce qu est de l UDP par le jeu Hordes IO",
+  "description": "Permet d'apprendre ce qu'est l'UDP par le jeu Hordes IO",
   "unity": "2019.1",
   "documentationUrl": "https://github.com/EloiStree/HelloRemoteUDPWS/blob/main/StepByStep.md",
   "changelogUrl": "https://github.com/EloiStree/HelloRemoteUDPWS/blob/main/StepByStep.md",
@@ -12,7 +12,8 @@
       "displayName": "Demo Scene",
       "description": "A sample demo scene to show basic functionality.",
       "path": "Scene/Demo"
-    },
+    }
+  ],
   "author": {
     "name": "Eloi Stree",
     "email": "",
