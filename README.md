@@ -5,11 +5,11 @@
 Step by step on how it was build [here](https://github.com/EloiStree/HelloRemoteUDPWS/blob/main/StepByStep.md).
 
 
-Required: https://github.com/EloiStree/OpenUPM_TickCollection.git
+**Required**: https://github.com/EloiStree/OpenUPM_TickCollection.git
 ```
 git clone https://github.com/EloiStree/OpenUPM_TickCollection.git
 ```
-manifest.json:
+`manifest.json`
 ```
 "be.elab.tickcollection": "https://github.com/EloiStree/OpenUPM_TickCollection.git",
 ```
