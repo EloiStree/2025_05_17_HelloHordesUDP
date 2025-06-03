@@ -11,7 +11,11 @@ git clone https://github.com/EloiStree/OpenUPM_TickCollection.git
 ```
 `manifest.json`
 ```
-"be.elab.tickcollection": "https://github.com/EloiStree/OpenUPM_TickCollection.git",
+    "be.elab.hellohordesudp": "https://github.com/EloiStree/2025_05_17_HelloHordesUDP.git",
+    "be.elab.tickcollection": "https://github.com/EloiStree/OpenUPM_TickCollection.git",   
+|   "com.unity.inputsystem": "1.14.0", 
 ```
+**Warning:** Attention a jouer Text Mesh Pro de Unity3D.  
 
 
+**Server:** ["Mon Premier Server UDP"](https://github.com/EloiStree/HelloRemoteUDPWS/tree/main/MonPremierServeurPythonUDP) - [Scratch To Wow](https://github.com/EloiStree/2024_08_29_ScratchToWarcraft)
